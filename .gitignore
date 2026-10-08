@@ -1,0 +1,16 @@
+# Ignore datasets and videos
+Celeb-DF-v2/
+*.mp4
+*.avi
+*.mov
+
+# Ignore model weights
+*.pth
+*.pt
+*.h5
+
+# Ignore Python environments and Mac junk
+venv/
+env/
+__pycache__/
+.DS_Store
